@@ -1,0 +1,59 @@
+
+/* Nory -04/11/2022 */
+
+.header{
+    height: 300px;
+    background-color: white; 
+    line-height: 300px;
+    font-size: 50px;
+
+
+}
+
+.footer{
+    height: 150px; 
+    background-color:white; 
+    line-height: 150px; 
+}
+
+.size_image{
+    width:25%; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+.common{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  color: #EEDC82; 
+}
+
+.text{
+    text-align: center; 
+    color:white; 
+    font-size: 25px; 
+
+}
+
+.background{
+    background-color: #EEDC82; 
+}
+
+.footer_text{
+    color:  #EEDC82; 
+    text-align: center; 
+    font-size: x-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+
+.body_text{
+    text-align:justify; 
+    color: white; 
+    font-size: 30px; 
+}
+
+.tab{
+    padding-inline: 12px;
+}
